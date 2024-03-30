@@ -22,7 +22,7 @@
 
 <h3 align="center">My Github Stats:</h3>
 <a href="https://github.com/minyonhee/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=minyonhee&layout=compact&langs_count=8&card_width=420&hide_progress&theme=aura&dark_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=minyonhee&layout=compact&langs_count=8&card_width=320&hide_progress&theme=aura&dark_icons=true" />
 </a>
 <a href="https://github.com/minyonhee/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minyonhee&card_width=150&hide_progress&theme=aura&dark_icons=true" />
