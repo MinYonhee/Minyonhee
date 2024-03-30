@@ -25,6 +25,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=minyonhee&layout=compact&langs_count=8&card_width=320&hide_progress&theme=aura&dark_icons=true" />
 </a>
 <a href="https://github.com/minyonhee/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minyonhee&card_width=150&hide_progress&theme=aura&dark_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minyonhee&hide_progress&theme=aura&dark_icons=true" />
 </a>
 
