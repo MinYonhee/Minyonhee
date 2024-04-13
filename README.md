@@ -27,6 +27,6 @@
 <a href="https://github.com/minyonhee/git.io/streak-stats"> 
     <img height=170 align="center" src=https://github-readme-streak-stats.herokuapp.com/?user=minyonhee&theme=aura&dark_icons=true />    
 <a href="https://github.com/minyonhee/convoychat">
-    <img width=500 height=170 align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=minyonhee&hide_progress&theme=aura&dark_icons=true" />
+    <img width=400 height=170 align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=minyonhee&hide_progress&theme=aura&dark_icons=true" />
 </a>
 
