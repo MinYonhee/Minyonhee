@@ -1,13 +1,12 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 [![MasterHead](https://i.pinimg.com/originals/c4/7f/60/c47f60d506f1e3d785b046ab52c60817.jpg)](https://github.com/MinYonhee)
 <h1 align="Center">Estudante de Sistemas para Internet; Amante de livros e cultura pop; Mãe de pet; Publicitária</h1>
-<p>
+
 Meu primeiro "Hello, World" foi aos 14 anos quando inciei o Ensino Médio integrado ao Curso Técnico de Jogos Digitais onde tive contato durante 3 anos com linguagens como C# e Java e ambientes de desenvolvimento como Visual Studio, Unity e Android Studio. Ao passar no vestibular decidi seguir por outra área, Publicidade, e agora estou retomando meus estudos em T.I apredendo novas linguagens e revisando os conteúdos com que eu já tive contato. Estou sempre disposta a aprender e me desafiar, além de adorar compartilhar meus conhecimentos com outros que tenham interesse em aprender!
-</p>
+
+ <img align="right" alt="" src="https://img.freepik.com/vetores-gratis/laptop-com-icone-de-codigo-isometrico-de-programa-desenvolvimento-de-software-e-aplicacoes-de-programacao-neon-escuro_39422-971.jpg?t=st=1713121167~exp=1713124767~hmac=65ddc221178865982fbd9d721167c038d61f9ac0c2cdd715e1ebac686c1af938" width="500" height="320" />
 
 <hr>
+
 <h3 align="center">Connect with me :iphone: </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-minyonhee-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/minyonhee?igsh=MXVreTMydGtzY2E3dg=="/> 
@@ -19,7 +18,7 @@ Meu primeiro "Hello, World" foi aos 14 anos quando inciei o Ensino Médio integr
 </a>
 
 <hr>
-
+<br>
 <h3 align="center">Languages and Tools :computer: </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
