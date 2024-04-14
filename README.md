@@ -2,12 +2,9 @@
 <!--END_SECTION:waka-->
 
 [![MasterHead](https://i.pinimg.com/originals/c4/7f/60/c47f60d506f1e3d785b046ab52c60817.jpg)](https://github.com/MinYonhee)
-<p align="center">
- <img src="https://badges.pufler.dev/repos/minyonhee"/>
- <img src="https://badges.pufler.dev/commits/monthly/minyonhee" />
-</p>
+<h1 align="Center">Estudante de Sistemas para Internet; Amante de livros e cultura pop; Mãe de pet; Publicitária</h1>
 <p>
-    
+Meu primeiro "Hello, World" foi aos 14 anos quando inciei o Ensino Médio integrado ao Curso Técnico de Jogos Digitais onde tive contato durante 3 anos com linguagens como C# e Java e ambientes de desenvolvimento como Visual Studio, Unity e Android Studio. Ao passar no vestibular decidi seguir por outra área, Publicidade, e agora estou retomando meus estudos em T.I apredendo novas linguagens e revisando os conteúdos com que eu já tive contato. Estou sempre disposta a aprender e me desafiar, além de adorar compartilhar meus conhecimentos com outros que tenham interesse em aprender!
 </p>
 
 <hr>
@@ -43,21 +40,17 @@
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 </h3>
 <p align = "center">
+ <a href="https://github.com/minyonhee/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=minyonhee&theme=aura&dark_icons=true&card_width=350" />
+</a>
 <a href="https://github.com/minyonhee/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minyonhee&theme=aura&dark_icons=true&langs_count=8&card_width=450" />
 </a>
-<a href="https://github.com/minyonhee/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=minyonhee&theme=aura&dark_icons=true&card_width=350" />
-</a>
 </p>
-
-<p align = "center">
-<a href="https://git.io/streak-stats">
+<p align = "center"><a href="https://git.io/streak-stats">
      <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minyonhee)&theme=aura&dark_icons=true&langs_count=8&card_width=400" />
 </a>
 </p>
-
-
 
 
 
